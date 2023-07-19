@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SketchyToxin
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning 
+- 🌱 I have an Associates in Applied Science: Simulation and Game Development Programming
 - 💞️ I’m looking to collaborate on gameplay systems
-- 📫 How to reach me: Discord - SketchyToxin#9807
+- 📫 How to reach me: Discord - sketchytoxin
 
 <!---
 SketchyToxin/SketchyToxin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
